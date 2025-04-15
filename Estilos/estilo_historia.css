@@ -1,0 +1,22 @@
+div{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+header{
+    font-size: 100px;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: bold;
+}    
+h1{
+    background-color: black;
+}
+ul{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    list-style: none;
+ 
+}

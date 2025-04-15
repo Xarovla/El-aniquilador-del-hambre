@@ -1,0 +1,28 @@
+header{
+    font-size: 100px;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: bold;
+}    
+body{
+    background-color: rgb(0, 0, 0);
+}
+div{
+    text-align: center;
+    background-color: dimgrey;
+}
+h1{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+p{
+    background-color: black;
+}
+
+ul{
+    background-color: black;
+    text-align: center;
+    list-style: none;
+ 
+}
